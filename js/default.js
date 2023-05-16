@@ -5,5 +5,5 @@ let userLang = navigator.language || navigator.userLanguage;
 if (userLang === "en-US") {
     window.location.href = "https://hceresetti.github.io/mockdaycommando/";
 } else {
-    window.location.href = "https://hceresetti.github.io/mockdaycommando/index.html";
+    window.location.href = "https://hceresetti.github.io/mockdaycommando/";
 }
