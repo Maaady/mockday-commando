@@ -2,8 +2,8 @@
 let userLang = navigator.userLanguage;
 
 // Redirects the user to the website version in their preferred language
-if (userLang === "pt-BR") {
-    window.location.href = "https://hceresetti.github.io/mockdaycommando/indice.html";
+if (userLang === "en-US") {
+    window.location.href = "https://hceresetti.github.io/mockdaycommando/";
 } else {
     window.location.href = "https://hceresetti.github.io/mockdaycommando/index.html";
 }
