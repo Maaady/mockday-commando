@@ -1,5 +1,5 @@
 // Gets the user's preferred language
-let userLang = navigator.userLanguage;
+let userLang = navigator.language || navigator.userLanguage;
 
 // Redirects the user to the website version in their preferred language
 if (userLang === "en-US") {
