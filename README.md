@@ -24,7 +24,10 @@ Os gestores e as equipes responsáveis por redação e publicação de conteúdo
 ### Recursos Exclusivos
 Quando comparado a outros sistemas de gerenciamento de conteúdo do mercado, o Mockday Commando possui integração ao Google Analíticas, através de extensão de terceiro e, direcionamento à nossa solução nativa de Teste A/B.
 
-### Meet our Instagram
+### Conheça nosso Instagram
 https://instagram.com/mkt.mockcorp
+
+### Contador de Visitas, desenvolvido por Hyesung Lee (@silentsoft)
+[![Hits](https://hits.sh/hceresetti.github.io/mockdaycommando-br.svg?style=for-the-badge&label=visitas&color=0000ff&labelColor=000000)](https://hits.sh/hceresetti.github.io/mockdaycommando-br/)
 
 © 2023 Corporação Mockday. Todos os direitos reservados. Mockday Commando™ é uma marca registrada de Corporação Mockday.
