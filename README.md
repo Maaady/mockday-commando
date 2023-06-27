@@ -1,5 +1,4 @@
 # Mockday Commando
-## Em Português (Brasil)
 ### Sobre nós
 Somos uma empresa de desenvolvimento de um sistema de gerenciamento de conteúdo, este qual permite a criação, edição e publicação de conteúdos em plataformas digitais e páginas remotas.
 
@@ -23,9 +22,6 @@ Os gestores e as equipes responsáveis por redação e publicação de conteúdo
 
 ### Recursos Exclusivos
 Quando comparado a outros sistemas de gerenciamento de conteúdo do mercado, o Mockday Commando possui integração ao Google Analíticas, através de extensão de terceiro e, direcionamento à nossa solução nativa de Teste A/B.
-
-### Conheça nosso Instagram
-https://instagram.com/mkt.mockcorp
 
 ### Contador de Visitas, desenvolvido por Hyesung Lee (@silentsoft)
 [![Hits](https://hits.sh/hceresetti.github.io/mockdaycommando-br.svg?style=for-the-badge&label=visitas&color=0000ff&labelColor=000000)](https://hits.sh/hceresetti.github.io/mockdaycommando-br/)
